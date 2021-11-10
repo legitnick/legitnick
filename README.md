@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @legitnick
 - 👀 I’m interested competitive programming, AI, js, C++, linux, open-source, Rust, 
-- 🌱 I’m currently learning js, C++, bash, linux
+- 🌱 I’m currently learning js,HTML,CSS,Vue, C++, bash, linux
 - 💞️ I’m looking to collaborate on any project involving my interests, and to explore something new 
 - 📫 How to reach me : you can mail at yaveirick@gmail.com
 
